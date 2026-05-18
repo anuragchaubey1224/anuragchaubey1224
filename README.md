@@ -70,12 +70,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anuragchaubey1224&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragchaubey1224&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchaubey1224&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragchaubey1224&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
