@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=YOUR_NAME&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Data%20Science&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ANURAG CHAUBEY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20%20%20%7C%20Data%20Science&descAlignY=55&descAlign=50" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;LLMs+%7C+RAG+%7C+AI+Agents;Deep+Learning+%7C+PyTorch+%7C+MLOps;Turning+Data+into+Decisions+%F0%9F%93%8A;Open+to+exciting+AI+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
