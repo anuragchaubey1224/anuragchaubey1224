@@ -13,7 +13,6 @@
 - Undergraduate in **Computer Science & Engineering** at IIITDM Kancheepuram
 - Working at the intersection of AI/ML, data systems, and scalable backend engineering
 - Strong foundation in DSA, Operating Systems, DBMS, Computer Networks, and OOP
-- LeetCode **Knight** — 1967 Rating · Top 3.02% · 500+ problems solved
 
 <br/>
 
